@@ -9,16 +9,9 @@ Repositorio de proyecto final de curso Automatización de procesos de manufactur
 - Jonathan Leonardo Begambre Rodriguez
 - Robinson Jair Orduz Gomez
 
-## Variaciones por producto
-
-### Cocción roja
-
-
-|Tipo|Descripción|Imágen|
-|-------------------------------|-----------------------------------------------------------------------------|---|
-| Azulejo, revestimiento poroso | Molienda seca, prensado, secado, cocción, esmaltado y cocción (bi-cocción). | ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/69473568/c8a3de68-2f40-407a-abbf-40c20f02eeac)|
-| Pavimento gresificado         | Molienda húmeda, prensado, secado, esmaltado y cocción.                     | ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/69473568/a25fa035-0886-442a-b9ec-30994a80a399)|
-| Gres rústico                  | Molienda seca, extrusión, secado, esmaltado (opcional) y cocción.           |![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/69473568/145f55a2-7d36-41c5-bf33-1385e9e4fa81)|
+## Propuesta
+Como equipo nos proponemos a mejorar la producción diaria de una fábrica de baldosas de tamaño medio a nivel colombiano. 
+La empresa produce 6000 metros cuadrados de 3 diferentes tipos de baldosas. El objetivo es, mediante la automatización de 3 procesos distintos, mejorar la producción diaria a 7000 metros cuadrados.
 
 ### Cocción blanca
 |Tipo|Descripción|Imágen|
@@ -31,6 +24,12 @@ Repositorio de proyecto final de curso Automatización de procesos de manufactur
 ## Información de producción
 ![image](https://github.com/EdoCuadros/APM-ProyectoIntegrador/assets/69473568/b8572245-a18e-4420-94b3-aff4bd9977a7)
 
-## Celda Robotizada
 
-- [Celda Robotizada](05.%20Celda%20Robotizada/Celda_Robotizada.md)
+## Contenido
+
+- [Gestión de la producción](02.%20Gestión%20de%20la%20producción%20y%20automatización/readme.md)
+- [Industria 4.0](03.%20Industria%204.0/)
+- [Evaluación económica del proyecto](04.%20Evaluación%20economica%20del%20proyecto/Modelo%20de%20Negocio/readme.md)
+- [Celda Robotizada](05.%20Celda%20Robotizada/README.md)
+- [Fábrica digital](06.%20Fabrica%20digital/README.MD)
+
