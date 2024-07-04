@@ -100,3 +100,9 @@ La tabla para el costo después de automatizar es similar, aumentando la materia
 Finalmente se tiene que, teniendo una producción diaria de 6000 metros cuadrados diarios, el costo de cada baldosa sería de 4.178$ y después de automatizar 3863$. Esto es una reducción del costo de producción de cada 
 baldosa de un 7,54%. Al vender cada caja de 12 baldosas a 120.000$, las ganancias antes y después son respectivamente **11.643'426.278**$ y **14.319'105.046**$. Lo que equivale a un aumento de casi un 23% en la ganancia mensual de la
 empresa.
+## Costos de actualizacion tecnologica:
+Para llegar a mejorar la produccion de la planta y el precio unitario de los productos se propono hacer la importacion de tres maquinas e instalarlas con sus respectivos complementos de adaptacion a la fabrica y elementos de seguridad para una operacion sin accidentes, en lasiguiente tabla se describen las 3 maquinas:
+
+| Proveedor| Categoria| Subcategoria | Modelo| FOB    |Nacionalizacion| Factor  |Iva |Total |                                           |----------------------------|----------------------------------------|----------|-----------------------------------|-----------------|
+| Materi           | Feldespato                             |      1,6 | ton / dia                         |     $37.440.000 |
+|                            | Caolín                                 |      0,8 | ton / dia                         |     $72.000.000 |
